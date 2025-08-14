@@ -1,8 +1,8 @@
-# Travels Log – Product Requirements Document (PRD)
+# Travels-Log – Product Requirements Document (PRD)
 
 ## Overview
 
-**Travels Log** is a web application designed for travel enthusiasts to record and reflect on their journeys. Users can write and manage personal journal entries, track travel memories, and optionally upload photos. Built with .NET Razor Pages, the app aims to be minimal, clean, and user-first.
+**Travels-Log** is a web application designed for travel enthusiasts to record and reflect on their journeys. Users can write and manage personal journal entries, track travel memories, and optionally upload photos. Built with .NET Razor Pages, the app aims to be minimal, clean, and user-first.
 
 ## Goals
 
